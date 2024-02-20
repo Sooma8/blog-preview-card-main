@@ -7,7 +7,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    ![Screenshot 2024-02-20 at 11-45-56 Frontend Mentor Blog preview card](https://github.com/Sooma8/blog-preview-card-main/assets/91131370/7ba98c5c-9c77-4e12-aaaa-69863b065d88)
+
   - [Links](#links)
+  - - Solution URL: 
+  - - Live Site URL: [Add live site URL here](https://blog-previewcard-solution.netlify.app/)
+
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -40,8 +45,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
