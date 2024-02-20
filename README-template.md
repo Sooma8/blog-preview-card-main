@@ -6,6 +6,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - Users should be able to:
+  - See hover and focus states for all interactive elements on the page
   - [Screenshot](#screenshot)
     ![Screenshot 2024-02-20 at 11-45-56 Frontend Mentor Blog preview card](https://github.com/Sooma8/blog-preview-card-main/assets/91131370/7ba98c5c-9c77-4e12-aaaa-69863b065d88)
 
@@ -15,35 +17,17 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [My process](#my-process)
   - [Built with](#built-with)
+  - - Semantic HTML5 markup
+  - CSS custom properties
+  - Flexbox
   - [What I learned](#what-i-learned)
+  - This project helped me be comfortable with CSS flexbox, manipulating items and making it fit the page perfectly
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - I'm still not skilled enough with CSS grid and hope to learn more along the way
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- Frontend Mentor - [@Sooma8](https://www.frontendmentor.io/profile/Sooma8)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
 
 
 ## My process
